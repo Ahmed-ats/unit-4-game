@@ -1,0 +1,91 @@
+body {
+    
+    background: url("../images/background-brick-bricks-220182.jpg");
+  }
+
+#header{
+    background-color: rgb(170, 111, 1);
+    color: white;
+    width: 30%;
+     margin: 10px;
+     padding: 10px;
+
+
+
+
+}
+#instruction
+ {
+    padding-top: 30px;
+    background: bisque;
+    color: green;
+    width: 60%;
+    min-height: 400px; 
+    font-size: 24px;
+    margin: 10px;
+
+
+
+ }
+  
+#shown-random-number {
+    background: green;
+    width: 30%;
+    height: 200px;
+    float: left;
+    margin: 10px;
+    padding-top: 20px;
+    font-size: 40px;
+
+}
+#win-loss{
+    
+    background: skyblue;
+    width: 20%;
+    height: 200px;
+    margin: 10px;   
+    float: left;
+    padding-top: 20px;
+    
+}
+
+img{
+   
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+   
+}
+
+#Crystals {
+   float: left;
+   
+
+  
+}
+#score-write{
+    float: left;
+    background: rgb(5, 94, 79);
+    height: 50px;
+    width: 40%;
+    margin: 10px;
+    font-size: 18px;
+    color: white;
+    clear: both;
+    padding: 10px;
+
+}
+#score{
+     clear: both;
+    float: left;
+    background: rgb(5, 94, 79);
+    height: 200px;
+    width: 40%;
+    margin: 10px;
+    font-size: 18px;
+    color: white;
+    padding-top: 20px;
+    color: white;
+
+}
+
